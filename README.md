@@ -16,3 +16,6 @@ In functional programming, everything is a function. Things are encapsulated in 
 
 
 4- Avoid mutability. No need to mutate things, just return new things keeping the old resources untouched.
+
+
+5- Pre data structure. 
